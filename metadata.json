@@ -1,0 +1,5 @@
+{
+  "name": "AI ID Photo Gen Pro",
+  "description": "Professional ID photo generator powered by Gemini. Features background removal, outfit changing, and automatic cropping for Passports, Citizen IDs (CCCD), and Driver Licenses.",
+  "requestFramePermissions": []
+}
